@@ -5,3 +5,5 @@ SUBDIRS += \
     LocalSocket \
     TcpServerAndClient  \
     UdpSocket   \
+    DesignPattern
+
